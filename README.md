@@ -35,7 +35,7 @@ Time spent: 7
 ### Walkthrough
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/gurucharan1002/dropbox-demo/blob/master/assignment2_updated.gif)
 
 
 
